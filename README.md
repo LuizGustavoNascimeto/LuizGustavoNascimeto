@@ -15,6 +15,6 @@ Tenho experiência em desenvolvimento web, especialmente com React, Angular e Ne
 
 ## 📫 Como me encontrar
 - Email: luizgnf1@gmail.com
-- Linkedin: https://www.linkedin.com/in/luiz-ferreira-1586b6267/
+- Linkedin: www.linkedin.com/in/luiz-ferreira-7e7
 
 Obrigado pela atenção!
